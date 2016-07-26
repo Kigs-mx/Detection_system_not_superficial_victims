@@ -1,0 +1,10 @@
+\subsubsection usage Usage
+\verbatim
+<node name="flir_gige" pkg="flir_gige" type="flir_gige">
+  <param name="fps" type="double" value="20.0" />
+  <param name="raw" type="bool" value="False" />
+  <param name="nuc_action" type="bool" value="False" />
+  <param name="nuc_mode" type="int" value="0" />
+</node>
+\endverbatim
+

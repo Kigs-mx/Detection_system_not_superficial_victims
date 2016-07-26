@@ -1,0 +1,2 @@
+start_sys_nsv:system_nsv_detector/camera_base:system_nsv_detector/find_victims:system_nsv_detector/flir_gige:system_nsv_detector/video_web
+-DCATKIN_DEVEL_PREFIX=/home/kigs/detection_system_not_superficial_victims/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/kigs/detection_system_not_superficial_victims/catkin_ws/install -G Unix Makefiles

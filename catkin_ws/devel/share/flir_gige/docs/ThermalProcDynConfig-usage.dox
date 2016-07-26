@@ -1,0 +1,8 @@
+\subsubsection usage Usage
+\verbatim
+<node name="flir_gige" pkg="flir_gige" type="flir_gige">
+  <param name="celsius_min" type="double" value="20.0" />
+  <param name="celsius_max" type="double" value="40.0" />
+</node>
+\endverbatim
+

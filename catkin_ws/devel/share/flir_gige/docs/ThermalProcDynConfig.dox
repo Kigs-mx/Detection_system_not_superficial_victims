@@ -1,0 +1,7 @@
+\subsubsection parameters ROS parameters
+
+Reads and maintains the following parameters on the ROS server
+
+- \b "~celsius_min" : \b [double] min temperature min: 0.0, default: 20.0, max: 70.0
+- \b "~celsius_max" : \b [double] max temperature min: 0.0, default: 40.0, max: 70.0
+

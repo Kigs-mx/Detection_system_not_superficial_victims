@@ -1,0 +1,8 @@
+prefix=/home/kigs/detection_system_not_superficial_victims/catkin_ws/install
+
+Name: video_web
+Description: Description of video_web
+Version: 0.0.0
+Cflags: -I/home/kigs/detection_system_not_superficial_victims/catkin_ws/install/include
+Libs: -L/home/kigs/detection_system_not_superficial_victims/catkin_ws/install/lib 
+Requires: 

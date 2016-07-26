@@ -1,0 +1,13 @@
+\subsubsection parameters ROS parameters
+
+Reads and maintains the following parameters on the ROS server
+
+- \b "~circles_per_row" : \b [int] circles per row min: 1, default: 4, max: 20
+- \b "~circles_per_col" : \b [int] circles per col min: 1, default: 5, max: 20
+- \b "~sigma" : \b [double] gaussian sigma min: 1.0, default: 1.0, max: 20.0
+- \b "~min_area" : \b [double] contour min area min: 1.0, default: 40.0, max: 1000.0
+- \b "~max_area" : \b [double] contour max area min: 100.0, default: 200.0, max: 10000.0
+- \b "~thresh_window" : \b [int] adaptive threshold window size min: 3, default: 11, max: 100
+- \b "~erosion_size" : \b [int] erosion size min: 1, default: 1, max: 10
+- \b "~thresh_type" : \b [int] Adaptive thresh type min: 0, default: 0, max: 1
+

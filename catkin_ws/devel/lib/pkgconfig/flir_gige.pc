@@ -1,0 +1,8 @@
+prefix=/home/kigs/detection_system_not_superficial_victims/catkin_ws/devel
+
+Name: flir_gige
+Description: Description of flir_gige
+Version: 0.0.1
+Cflags: -I/home/kigs/detection_system_not_superficial_victims/catkin_ws/devel/include
+Libs: -L/home/kigs/detection_system_not_superficial_victims/catkin_ws/devel/lib 
+Requires: 

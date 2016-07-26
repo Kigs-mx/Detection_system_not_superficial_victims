@@ -1,0 +1,8 @@
+prefix=/home/kigs/detection_system_not_superficial_victims/catkin_ws/install
+
+Name: find_victims
+Description: Description of find_victims
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/kigs/detection_system_not_superficial_victims/catkin_ws/install/lib 
+Requires: 

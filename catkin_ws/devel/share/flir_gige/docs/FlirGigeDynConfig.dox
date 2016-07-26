@@ -1,0 +1,9 @@
+\subsubsection parameters ROS parameters
+
+Reads and maintains the following parameters on the ROS server
+
+- \b "~fps" : \b [double] frame per second min: 1.0, default: 20.0, max: 60.0
+- \b "~raw" : \b [bool] Raw 14-bit data min: False, default: False, max: True
+- \b "~nuc_action" : \b [bool] Non-uniform image correction min: False, default: False, max: True
+- \b "~nuc_mode" : \b [int] Non-uniform correction mode min: 0, default: 0, max: 1
+

@@ -1,0 +1,14 @@
+\subsubsection usage Usage
+\verbatim
+<node name="flir_gige" pkg="flir_gige" type="flir_gige">
+  <param name="circles_per_row" type="int" value="4" />
+  <param name="circles_per_col" type="int" value="5" />
+  <param name="sigma" type="double" value="1.0" />
+  <param name="min_area" type="double" value="40.0" />
+  <param name="max_area" type="double" value="200.0" />
+  <param name="thresh_window" type="int" value="11" />
+  <param name="erosion_size" type="int" value="1" />
+  <param name="thresh_type" type="int" value="0" />
+</node>
+\endverbatim
+

@@ -1,0 +1,8 @@
+prefix=/home/kigs/detection_system_not_superficial_victims/catkin_ws/install
+
+Name: start_sys_nsv
+Description: Description of start_sys_nsv
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/kigs/detection_system_not_superficial_victims/catkin_ws/install/lib 
+Requires: 
